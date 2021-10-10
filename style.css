@@ -47,7 +47,7 @@ p.lead {
 }
 
 a {
-    color: greenyellow;
+    color: var(--tercercolor);
     text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ main {
 
 aside {
     background: var(--tercercolor);
-    color: greenyellow
+    color: var(--coloroscuro);
 }
 
 footer {
